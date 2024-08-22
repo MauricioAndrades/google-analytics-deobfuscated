@@ -5,6 +5,10 @@
 This repository contains a deobfuscated version of the `analytics.js` script. Used to explore and understand
 the inner workings of google analytics and ga tracking.
 
+`analytics.js`: deobfuscated version
+`analytics.min.js`: original version served by google
+`analytics.ts`: wip typed version
+
 ## Features
 
 - **Namespace Registration:** Handles the registration of global namespaces within the script's scope.
