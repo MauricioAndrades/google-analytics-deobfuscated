@@ -5,6 +5,8 @@
 This repository contains a deobfuscated version of the `analytics.js` script. Used to explore and understand
 the inner workings of google analytics and ga tracking.
 
+This was created by using a custom machine learning deobfuscated model trained with exection data.
+
 - `analytics.js`: deobfuscated version
 - `analytics.min.js`: original version served by google
 - `analytics.ts`: wip typed version
